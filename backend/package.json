@@ -17,8 +17,7 @@
     "mongoose": "^8.17.2",
     "multer": "^2.0.2",
     "pdf-lib": "^1.17.1",
-    "puppeteer-core": "^24.17.0",
-    "proxy": "http://127.0.0.1:5000"
+    "puppeteer-core": "^24.17.0"
   },
   "devDependencies": {
     "nodemon": "^3.1.0"
